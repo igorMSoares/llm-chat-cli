@@ -1,0 +1,14 @@
+[
+  {
+    "role": "system",
+    "file": "system_prompt.example.01.md"
+  },
+  {
+    "role": "system",
+    "file": "system_prompt.example.02.md"
+  },
+  {
+    "role": "system",
+    "content": "# Response Guidelines\n\n- Always use the same language of the user's messages"
+  }
+]

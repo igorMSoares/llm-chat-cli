@@ -1,0 +1,10 @@
+.env
+
+/logs
+/prompts/*
+!/prompts/system_prompt.example.*.md
+/input/*
+!/input/messages.example.json
+/bin
+
+llm-chat-cli
